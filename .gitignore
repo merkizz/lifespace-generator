@@ -1,0 +1,17 @@
+# Fichiers système
+.DS_Store
+._*
+Thumbs.db
+desktop.ini
+
+# Fichiers temporaires et verrous d'éditeurs
+*.tmp
+~$*
+.~lock.*
+*.swp
+
+# IDE
+.idea/
+
+# Paramètres personnels remplis (jamais versionnés)
+_prive/
